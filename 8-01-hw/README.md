@@ -57,7 +57,7 @@
 
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 
-`https://github.com/Kirill67km/Netology_ht/commit/bac1cf7936f15e6e66cbfa6bfba7cf49b82aa72c`
+`https://github.com/Kirill67km/Netology_ht/commit/f5c6c9fd2c28c9b92d0f81b0c78c96cfe3ed9321`
 
 ---
 
