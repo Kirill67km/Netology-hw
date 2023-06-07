@@ -73,7 +73,7 @@
 
 В качестве ответа прикрепите ссылку на граф коммитов https://github.com/ваш-логин/ваш-репозиторий/network в ваш md-файл с решением.
 
-`https://github.com/Kirill67km/Netology_ht/commits/main/test.sh`
+`https://github.com/Kirill67km/Netology_ht/network`
 
 ---
 
